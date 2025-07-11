@@ -1,0 +1,1 @@
+This is a repository containing several different projects of my Master's Degree in Computational Physics. This repository contains a wide range of different techniques, from deep learning to OOP and parallel programming in C.
